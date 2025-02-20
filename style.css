@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #1c1c1c ;
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    
+}
+
+#canvas {
+    width: 50vw;
+    height: 50vh;
+    display: grid;
+    background-color: black;
+    border: 2px solid red;
+
+}
+
+
